@@ -1,6 +1,7 @@
 import wappalyzer
 
 #buat ngidentifikasi tehnologi apa yang digunakan dalam suatu website
+#install pip dulu dengan menjalakan perintah ; pip install wappalyzer
 
 
 # Get user input for website URL
